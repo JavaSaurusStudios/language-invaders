@@ -1,0 +1,354 @@
+{
+    "data": [
+        {
+            "type": "transl",
+            "prompt": "une baguette",
+            "answer": "een stokbrood"
+        },
+        {
+            "type": "transl",
+            "prompt": "une bouteille",
+            "answer": "een fles"
+        },
+        {
+            "type": "transl",
+            "prompt": "le café",
+            "answer": "de koffie"
+        },
+        {
+            "type": "transl",
+            "prompt": "le coca",
+            "answer": "de cola"
+        },
+        {
+            "type": "transl",
+            "prompt": "une course",
+            "answer": "een boodschap"
+        },
+        {
+            "type": "transl",
+            "prompt": "un fruit",
+            "answer": "een vrucht"
+        },
+        {
+            "type": "transl",
+            "prompt": "un légume",
+            "answer": "een groente"
+        },
+        {
+            "type": "transl",
+            "prompt": "une limonade",
+            "answer": "een limonade"
+        },
+        {
+            "type": "transl",
+            "prompt": "une liste",
+            "answer": "een lijst"
+        },
+        {
+            "type": "transl",
+            "prompt": "une liste des courses",
+            "answer": "een boodschappenlijst"
+        },
+        {
+            "type": "transl",
+            "prompt": "un fruit",
+            "answer": "een vrucht"
+        },
+        {
+            "type": "transl",
+            "prompt": "une poire",
+            "answer": "een peer"
+        },
+        {
+            "type": "transl",
+            "prompt": "une pomme",
+            "answer": "een appel"
+        },
+        {
+            "type": "transl",
+            "prompt": "un supermarché",
+            "answer": "een supermarkt"
+        },
+        {
+            "type": "transl",
+            "prompt": "aider",
+            "answer": "helpen"
+        },
+        {
+            "type": "transl",
+            "prompt": "faire",
+            "answer": "doen"
+        },
+        {
+            "type": "transl",
+            "prompt": "savoir",
+            "answer": "weten"
+        },
+        {
+            "type": "transl",
+            "prompt": "venir",
+            "answer": "komen"
+        },
+        {
+            "type": "transl",
+            "prompt": "vouloir",
+            "answer": "willen"
+        },
+        {
+            "type": "transl",
+            "prompt": "maintenant",
+            "answer": "nu"
+        },
+        {
+            "type": "transl",
+            "prompt": "ne pas",
+            "answer": "niet"
+        },
+        {
+            "type": "transl",
+            "prompt": "ne plus",
+            "answer": "niet meer"
+        },
+        {
+            "type": "transl",
+            "prompt": "rien",
+            "answer": "niets"
+        },
+        {
+            "type": "transl",
+            "prompt": "tout",
+            "answer": "alles"
+        },
+        {
+            "type": "transl",
+            "prompt": "De quoi as-tu besoin?",
+            "answer": "Wat heb je nodig?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Il n'est pas la",
+            "answer": "hij is er niet"
+        },
+        {
+            "type": "transl",
+            "prompt": "je sais.",
+            "answer": "ik weet het"
+        },
+        {
+            "type": "transl",
+            "prompt": "je ne sais pas",
+            "answer": "ik weet het niet"
+        },
+        {
+            "type": "transl",
+            "prompt": "je veux bien t'aider",
+            "answer": "ik wil je wel helpen"
+        },
+        {
+            "type": "transl",
+            "prompt": "je fais les courses",
+            "answer": "ik doe de boodschappen"
+        },
+        {
+            "type": "transl",
+            "prompt": "je fais la liste des courses",
+            "answer": "ik maak de boodschappenlijst op"
+        },
+        {
+            "type": "transl",
+            "prompt": "Qu'est-ce qu'il te faut?",
+            "answer": "Wat heb je nodig?"
+        },
+        {
+            "type": "transl",
+            "prompt": "j'ai besoin de",
+            "answer": "ik heb nodig"
+        },
+        {
+            "type": "transl",
+            "prompt": "c'est tout",
+            "answer": "dat is alles"
+        },
+        {
+            "type": "transl",
+            "prompt": "Qu'est-ce que vous faites?",
+            "answer": "Wat doen jullie?"
+        },
+        {
+            "type": "transl",
+            "prompt": "Rien pour l'instant",
+            "answer": "Niets voor het ogenblik"
+        },
+        {
+            "type": "transl",
+            "prompt": "Tu viens avec moi?",
+            "answer": "Kom je met mij mee?"
+        },
+        {
+            "type": "transl",
+            "prompt": "D'accord",
+            "answer": "Akkoord"
+        },
+        {
+            "prompt": "faire (je)",
+            "type": "verb",
+            "answer": "je fais"
+        },
+        {
+            "prompt": "faire (tu)",
+            "type": "verb",
+            "answer": "tu fais"
+        },
+        {
+            "prompt": "faire (il)",
+            "type": "verb",
+            "answer": "il fait"
+        },
+        {
+            "prompt": "faire (elle)",
+            "type": "verb",
+            "answer": "elle fait"
+        },
+        {
+            "prompt": "faire (nous)",
+            "type": "verb",
+            "answer": "nous faisons"
+        },
+        {
+            "prompt": "faire (vous)",
+            "type": "verb",
+            "answer": "vous faites"
+        },
+        {
+            "prompt": "faire (ils)",
+            "type": "verb",
+            "answer": "ils font"
+        },
+        {
+            "prompt": "faire (elles)",
+            "type": "verb",
+            "answer": "elles font"
+        },
+        {
+            "prompt": "savoir (je)",
+            "type": "verb",
+            "answer": "je sais"
+        },
+        {
+            "prompt": "savoir (tu)",
+            "type": "verb",
+            "answer": "tu sais"
+        },
+        {
+            "prompt": "savoir (il)",
+            "type": "verb",
+            "answer": "il sait"
+        },
+        {
+            "prompt": "savoir (elle)",
+            "type": "verb",
+            "answer": "elle sait"
+        },
+        {
+            "prompt": "savoir (nous)",
+            "type": "verb",
+            "answer": "nous savons"
+        },
+        {
+            "prompt": "savoir (vous)",
+            "type": "verb",
+            "answer": "vous savez"
+        },
+        {
+            "prompt": "savoir (ils)",
+            "type": "verb",
+            "answer": "ils savent"
+        },
+        {
+            "prompt": "savoir (elles)",
+            "type": "verb",
+            "answer": "elles savent"
+        },
+        {
+            "prompt": "venir (je)",
+            "type": "verb",
+            "answer": "je viens"
+        },
+        {
+            "prompt": "venir (tu)",
+            "type": "verb",
+            "answer": "tu viens"
+        },
+        {
+            "prompt": "venir (il)",
+            "type": "verb",
+            "answer": "il vient"
+        },
+        {
+            "prompt": "venir (elle)",
+            "type": "verb",
+            "answer": "elle vient"
+        },
+        {
+            "prompt": "venir (nous)",
+            "type": "verb",
+            "answer": "nous venons"
+        },
+        {
+            "prompt": "venir (vous)",
+            "type": "verb",
+            "answer": "vous venez"
+        },
+        {
+            "prompt": "venir (ils)",
+            "type": "verb",
+            "answer": "ils viennent"
+        },
+        {
+            "prompt": "venir (elles)",
+            "type": "verb",
+            "answer": "elles viennent"
+        },
+        {
+            "prompt": "vouloir (je)",
+            "type": "verb",
+            "answer": "je veux"
+        },
+        {
+            "prompt": "vouloir (tu)",
+            "type": "verb",
+            "answer": "tu veux"
+        },
+        {
+            "prompt": "vouloir (il)",
+            "type": "verb",
+            "answer": "il veut"
+        },
+        {
+            "prompt": "vouloir (elle)",
+            "type": "verb",
+            "answer": "elle veut"
+        },
+        {
+            "prompt": "vouloir (nous)",
+            "type": "verb",
+            "answer": "nous voulons"
+        },
+        {
+            "prompt": "vouloir (vous)",
+            "type": "verb",
+            "answer": "vous voulez"
+        },
+        {
+            "prompt": "vouloir (ils)",
+            "type": "verb",
+            "answer": "ils veulent"
+        },
+        {
+            "prompt": "vouloir (elles)",
+            "type": "verb",
+            "answer": "elles veulent"
+        }
+    ]
+}
